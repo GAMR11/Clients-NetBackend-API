@@ -1,4 +1,4 @@
-# 🏦 Bank Client API - Sistema de Gestión de Clientes Bancarios
+# Client API - Sistema de Gestión de Clientes
 
 API RESTful desarrollada con **ASP.NET Core 8.0** para la gestión de clientes, con integración de APIs externas (JSONPlaceholder).
 
